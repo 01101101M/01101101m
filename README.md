@@ -60,4 +60,12 @@ My name is Mohammad Mirshaei, but you can call me DPR. I am a Tech enthusiast, a
 </tr>
 </table>
 
+
+<div align="left">
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/m01101101/)
+[![telegram](https://img.shields.io/badge/m_01001101-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/m_01001101)
+![Keybase PGP](https://img.shields.io/keybase/pgp/m_01101101?color=%233ac589&logo=keybase&logoColor=%23fff&style=for-the-badge)
+</div> 
+
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
