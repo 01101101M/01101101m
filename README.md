@@ -4,7 +4,7 @@
 ## I'm DPR.
 My name is Mohammad Mirshaei, but you can call me DPR. I am a Tech enthusiast, a GNU/Linux Lover, and a Software Engineering student at Shiraz University. Currently, I'm working as Full Stack Web Developer at [Hiva IoT Company](https://hiva-iot.com/). Find out more about [me](https://linkedin.com/in/m01101101/), and feel free to connect with me.
 
-![](https://komarev.com/ghpvc/?username=mariebehzadi&color=0069b4&style=flat-square)
+![](https://komarev.com/ghpvc/?username=01101101m&color=0069b4&style=flat-square)
 
 ## **Tech Stack**
 
@@ -59,6 +59,10 @@ My name is Mohammad Mirshaei, but you can call me DPR. I am a Tech enthusiast, a
 </th>
 </tr>
 </table>
+
+## **Github Status**
+| [![DPR's GitHub stats](https://github-readme-stats-01101101m.vercel.app/api?username=01101101m&theme=transparent&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&include_orgs=true)](https://github.com/anuraghazra/github-readme-stats) | [![DPR's Top Langs](https://github-readme-stats-01101101m.vercel.app/api/top-langs/?username=01101101m&hide_border=true&theme=transparent&layout=compact&langs_count=16&include_orgs=true)](https://github.com/anuraghazra/github-readme-stats) |
+| ------------- | ------------- |
 
 
 <div align="left">
