@@ -61,7 +61,7 @@ My name is Mohammad Mirshaei, but you can call me DPR. I am a Tech enthusiast, a
 </table>
 
 ## **Github Status**
-| [![DPR's GitHub stats](https://github-readme-stats-01101101m.vercel.app/api?username=01101101m&theme=transparent&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&include_orgs=true)](https://github.com/anuraghazra/github-readme-stats) | [![DPR's Top Langs](https://github-readme-stats-01101101m.vercel.app/api/top-langs/?username=01101101m&hide_border=true&theme=transparent&layout=compact&langs_count=16&include_orgs=true)](https://github.com/anuraghazra/github-readme-stats) |
+| [![DPR's GitHub stats](https://github-readme-stats-01101101m.vercel.app/api?username=01101101m&theme=transparent&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&include_orgs=true)](https://github.com/anuraghazra/github-readme-stats) | [![DPR's Top Langs](https://github-readme-stats-01101101m.vercel.app/api/top-langs/?username=01101101m&hide_border=true&theme=transparent&layout=compact&langs_count=16&include_orgs=true&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats) |
 | ------------- | ------------- |
 
 
