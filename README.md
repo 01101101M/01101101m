@@ -24,8 +24,8 @@ My name is Mohammad Mirshaei, but you can call me DPR. I am a Tech enthusiast, a
 </tr>
 <tr>
 <th align="center">
-<img width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/ubuntu.svg"/>
 <img width="40" src="https://www.gentoo.org/favicon.ico"/>
+<img width="40" src="https://nixos.org/logo/nix-wiki.png"/>
 </th>
 <th align="center">
 <img width="50" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/postgresql.svg"/> 
